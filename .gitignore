@@ -1,0 +1,18 @@
+# Ignore files and directories
+
+# Logs
+*.log
+
+# Runtime data
+*.pid
+*.seed
+
+# Build directories
+build/
+out/
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
