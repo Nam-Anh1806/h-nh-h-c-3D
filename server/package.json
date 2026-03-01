@@ -1,0 +1,1 @@
+{\n  \"name\": \"my-node-app\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A Node.js backend setup\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\np  },\n  \"author\": \"Nam-Anh1806\",\n  \"license\": \"ISC\"\n}
